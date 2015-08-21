@@ -1,0 +1,43 @@
+img {
+	height: 95px;
+	margin-top: 184px;
+	text-align: center;
+}
+
+#google {
+	text-align: center;
+}
+
+#russia {
+	margin-left: 716px;
+	margin-top: -45px;
+	font-family: arial;
+}
+
+p {
+	color: #777;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+form {
+	/*border: 0.5px #1E90FF solid;*/
+	height: 28px;
+	width: 570px;
+	position: relative;
+	margin: auto;
+	margin-top: 29px;
+}
+
+form div {
+	margin-top: 1px;
+	border: 0.5px #1E90FF solid;
+	size: 580px;
+	font-size: 24px;
+}
+
+input {
+	font-size: 14px;
+	border: 0px;
+	margin-left: 8px;
+}
